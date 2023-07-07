@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-   background-image: url(images/wp2234615-coding-wallpapers.png);
+   background-image: url(images/backimage.jpg);
    background-size: cover;
    background-position: center;
 }
@@ -363,14 +363,14 @@ nav .fa-solid{
 }
 @media only screen and (max-width:600px){
      #header{
-        background-image: url(images/wp2234615-coding-wallpapers.png);
+        background-image: url(images/backimage.jpg);
      }
      .headert-text{
         margin-top: 100%;
-        font-size: 16px;
+        font-size: 20px;
      }
      .headert-text h1{
-        font-size: 18px;
+        font-size: 25px;
      }
      nav .fa-solid{
         display: block;
