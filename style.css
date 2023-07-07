@@ -89,18 +89,23 @@ nav ul li a:hover::after{
 }
 
 .headert-text{
-    margin-top: 15%;
+    /* margin-top: 15%;
     margin-left: 20px;
     /* display: inline-block; */
-    font-size: 30px;
+    /* font-size: 30px; */
     /* align-items: center;
-    align-content: center; */
+    align-content: center; */ */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 15%;
 }
 .headert-text h1{
     font-size: 60px;
     margin-top: 20px;
 }
 .headert-text p{
+    font-size: 25px;
     color: yellow;
 }
 .headert-text h1 span{
