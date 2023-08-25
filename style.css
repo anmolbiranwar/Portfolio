@@ -371,11 +371,11 @@ nav .fa-solid{
         background-image: url(images/backimage.jpg);
      }
      .headert-text{
-        margin-top: 100%;
-        font-size: 20px;
+        margin-top: 30%;
+        font-size: 70px;
      }
      .headert-text h1{
-        font-size: 25px;
+        font-size: 40x;
      }
      nav .fa-solid{
         display: block;
@@ -421,4 +421,10 @@ nav .fa-solid{
     .contact-left, .contact-right{
         flex-basis: 100%;
     }
+}
+
+#msg{
+    color: #61b752;
+    margin-top: -40px;
+    display: block;
 }
